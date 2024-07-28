@@ -1,0 +1,1 @@
+.ddev/file_snapshots filter=lfs diff=lfs merge=lfs -text
